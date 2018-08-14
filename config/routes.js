@@ -34,6 +34,12 @@ module.exports.routes = {
   'GET /account/password':   { action: 'account/view-edit-password' },
   'GET /account/profile':    { action: 'account/view-edit-profile' },
 
+  //  ╔╦╗╔═╗╔╦╗╔═╗╦ ╔═╗╔╦╗╔═╗╔═╗
+  //   ║ ║╣ ║║║╠═╝║ ╠═╣ ║ ║╣ ╚═╗
+  //   ╩ ╚═╝╩ ╩╩  ╚╝╩ ╩ ╩ ╚═╝╚═╝
+  'GET /templates/homepage': { view: 'pages/templates/homepage' },
+  'GET /templates/faq':      { view: 'pages/templates/faq' },
+
 
   //  ╔═╗╔═╗╦  ╔═╗╔╗╔╔╦╗╔═╗╔═╗╦╔╗╔╔╦╗╔═╗
   //  ╠═╣╠═╝║  ║╣ ║║║ ║║╠═╝║ ║║║║║ ║ ╚═╗

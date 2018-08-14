@@ -1,6 +1,6 @@
-# timely
+# Timely
 
-a [Sails v1](https://sailsjs.com) application
+A [Sails v1](https://sailsjs.com) application
 
 
 ### Links
@@ -20,7 +20,7 @@ This app was originally generated on Tue Aug 14 2018 14:39:55 GMT-0400 (Eastern 
 <!-- Internally, Sails used [`sails-generate@1.15.28`](https://github.com/balderdashy/sails-generate/tree/v1.15.28/lib/core-generators/new). -->
 
 
-This project's boilerplate is based on an expanded seed app provided by the [Sails core team](https://sailsjs.com/about) to make it easier for you to build on top of ready-made features like authentication, enrollment, email verification, and billing.  For more information, [drop us a line](https://sailsjs.com/support).
+This project's boilerplate is based on an expanded seed app provided by the [Sails core team](https://sailsjs.com/about).
 
 
 <!--
